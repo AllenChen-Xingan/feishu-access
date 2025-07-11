@@ -1,4 +1,4 @@
-# 涌现与连接：让每一份创造在飞书被看见 「Feishu Access」计划
+# 涌现与连接：让每一份创造在飞书被看见 「Feishu Access」
 
 **写在前面：** 「Feishu Access」是一个社区主导的开源项目，致力于为飞书开发无障碍增强功能。飞书作为强大的协作平台，其当前的无障碍缺失却阻碍了视障用户的深度参与。因此，我们选择通过社区共创的方式，自下而上地构建飞书无障碍支持的外挂解决方案，确保每个人都能很好地使用飞书，激发无限的创造力，让通往平等工作的最后一公里在缩短一点点。
 
@@ -171,5 +171,5 @@ Feishu access 关乎一个工具，但更关乎更多有智慧的视障者，能
 *   **联系与交流：** 添加微信 `AllenxaChen` 或发送邮件至 [x.chen@uni.minerva.edu](mailto:x.chen@uni.minerva.edu)。
 *   **直接贡献：** 在 GitHub 项目中提交 Pull Request (PR) 或创建 Issue。
 
-**[→ 前往 Feishu Access 的 GitHub 项目页]** (链接待补充) 
+**[→ 前往 Feishu Access 的 GitHub 项目页]** (https://github.com/AllenChen-Xingan/feishu-access) 
 
