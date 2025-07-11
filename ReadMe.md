@@ -171,5 +171,4 @@ Feishu access 关乎一个工具，但更关乎更多有智慧的视障者，能
 *   **联系与交流：** 添加微信 `AllenxaChen` 或发送邮件至 [x.chen@uni.minerva.edu](mailto:x.chen@uni.minerva.edu)。
 *   **直接贡献：** 在 GitHub 项目中提交 Pull Request (PR) 或创建 Issue。
 
-**[→ 前往 Feishu Access 的 GitHub 项目页]** (https://github.com/AllenChen-Xingan/feishu-access) 
-
+点击**→ 前往 Feishu Access 的 [GitHub](https://github.com/AllenChen-Xingan/feishu-access) 项目页**
